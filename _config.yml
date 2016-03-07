@@ -1,28 +1,18 @@
-name: King Law
-favicon: null
-layout_spectrum: 0.7275645579211414
-typography_spectrum: 0.6954013295471668
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-  brandStrength: 0.042291861260309815
-  lightness: 0.8147913357242942
-  saturation: 0.6478642791043967
-  rhythmicContrast: 0.5303083355538547
+    - '#B8B8C0'
+    - '#000000'
+    - '#788080'
+    - '#000000'
+    - '#000000'
+  brandStrength: 0.695945
+  lightness: 0.759009
+  rhythmicContrast: 0.572072
+  saturation: 0.677927
+cta: {}
+layout_spectrum: 0.916666
+name: King Law
+opengraph: {}
 purpose: []
+typography_spectrum: 0.639639
